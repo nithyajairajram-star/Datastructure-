@@ -656,4 +656,11 @@ Enter Element to be searched: 14 Key element is present in BST
 4. Exit
 Enter your choice: 4
 
+ex.6.  output
+OUTPUT:
+Preorder traversal of the constructed AVL tree is
+5 0 -1 1 2 9 6 10 11
+Preorder traversal after deletion of 10
+5 0 -1 1 2 9 6 11
+
 
