@@ -474,4 +474,16 @@ Circular Linked List Operations:
 1.	Create List
 2.	 Insert at Beginning
 
+ex.3a.output
+Stack Operations Menu:
+1.	Push
+2.	Pop
+3.	Display
+4.	Exit
+Enter your choice: 1 Enter element to push: 10 Element pushed: 10 Stack Operations Menu:
+1.	Push
+2.	Pop
+3.	Display
+4.	Exit
+Enter your choice: 1 Enter element to push: 20 Element pushed: 20 Stack Operations 
 
