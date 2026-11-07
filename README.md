@@ -821,6 +821,44 @@ Entries at index 0: No Hash Entry Entries at index 1: 12 -> NULL
 Entries at index 2: 3 -> 7 -> 15 -> NULL
 Press 1. Insert  2. Display 3. Exit
 3
+ex.11b output 
+OUTPUT:
+Enter size of hash table 5
+Enter hash function (if mod 10, enter 10) 5
+Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+1
+Enter key element to insert 12
+Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+1
+Enter key element to insert 25
+
+Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+1
+Enter key element to insert 20
+
+Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+1
+ Enter key element to insert 8
 
 
 
