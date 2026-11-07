@@ -511,6 +511,57 @@ Queue Operations Menu:
 Enter your choice: 1
 Enter element to enqueue: 30 Element enqueued: 30
 
+Queue Operations Menuxit
+
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 3 Queue elements: 10 20 30
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 2 Dequeued element: 10
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 3 Queue elements: 20 30
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	exit
+ex.4a output
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+ Enter element to enqueue: 10 Element enqueued: 10
+ 
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 20 Element enqueued: 20
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 30 Element enqueued: 30
+
 Queue Operations Menu:
 1.	Enqueue
 2.	Dequeue
@@ -537,3 +588,124 @@ Queue Operations Menu:
 2.	Dequeue
 3.	Display
 4.	exit
+ex.4b output
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 10 Element enqueued: 10
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 20 Element enqueued: 20
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 30 Element enqueued: 30
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 3 Queue elements: 10 20 30
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 2 Dequeued element: 10
+
+Queue Operations Menu:
+1.	Enqueue
+2.	 Dequeue
+ 
+3.	Display
+4.	Exit
+Enter your choice: 3 Queue elements: 20 30
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 4
+ex.5 output
+1.	Create a BST
+2.	Search
+3.	BST Traversals:
+4.	Exit
+Enter your choice: 1
+
+ Enter the number of elements: 12 Enter the value: 6
+ 
+Enter the value: 9 Enter the value: 5 Enter the value: 2 Enter the value: 8 Enter the value: 15 Enter the value: 24 Enter the value: 14 Enter the value: 7 Enter the value: 8 Enter the value: 5 Enter the value: 2		
+~~~~BST MENU~~~~
+1.	Create a BST
+2.	Search
+3.	BST Traversals:
+4.	Exit
+Enter your choice: 3
+The Preorder display:	6	5	2	9	8	7	15	14	24
+The Inorder display:	2	5	6	7	8	9	14	15	24
+The Postorder display:	2	5	7	8	14	24	15	9	6
+~~~~BST MENU~~~~
+1.	Create a BST
+2.	Search
+3.	BST Traversals:
+4.	Exit
+Enter your choice: 2										
+
+Enter Element to be searched: 66 Key element is not found in the BST
+
+~~~~BST MENU~~~~
+1.	Create a BST
+2.	Search
+3.	BST Traversals:
+4.	Exit
+Enter your choice: 2
+
+Enter Element to be searched: 14 Key element is present in BST
+
+~~~~BST MENU~~~~
+1.	Create a BST
+2.	Search
+3.	 BST Traversals:
+ 
+4.	Exit
+Enter your choice.2
+ex.6 output
+
+OUTPUT:
+Preorder traversal of the constructed AVL tree is 5 0 -1 1 2 9 6 10 11
+
+Preorder traversal after deletion of 10 5 0 -1 1 2 9 6 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
