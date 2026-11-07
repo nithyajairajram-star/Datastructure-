@@ -859,7 +859,16 @@ Enter your choice
 0	-> Exit
 1
  Enter key element to insert 8
+ex.12 output
 
+OUTPUT:
+Enter how many students: 2
+Enter name and roll number for student 0 : ARUN 4211101
+Enter name and roll number for student 1 : KUMAR 4211102
+Enter marks of student 0 for subject 0 : 78 Enter marks of student 0 for subject 1 : 98 Enter marks of student 0 for subject 2 : 67 Enter marks of student 1 for subject 0 : 78 Enter marks of student 1 for subject 1 : 55 Enter marks of student 1 for subject 2 : 57
+
+Total marks obtained by student ARUN are 243n Total marks obtained by student KUMAR are 190n
+ Student ARUN got maximum marks = 78 in Subject : 0 Student ARUN got maximum marks = 98 in Subject : 1
 
 
 
