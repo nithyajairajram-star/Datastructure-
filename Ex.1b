@@ -1,0 +1,44 @@
+include <stdio.h> #include <stdlib.h> struct Node {
+int data;
+struct Node* next;
+};
+struct Node* head = NULL;
+// Function to create a new node struct Node* createNode(int data) {
+struct Node* newNode = (struct Node*)malloc(sizeof(struct Node)); newNode->data = data;
+newNode->next = NULL; return newNode;
+}
+// Function to insert a node at the beginning void insertAtBeginning(int data) {
+struct Node* newNode = createNode(data); newNode->next = head;
+head = newNode;
+ }
+ 
+// Function to insert a node at the end void insertAtEnd(int data) {
+struct Node* newNode = createNode(data); if (head == NULL) {
+head = newNode; return;
+}
+struct Node* temp = head; while (temp->next != NULL) { temp = temp->next;
+}
+temp->next = newNode;
+}
+// Function to insert a node at a specified position void insertAtPosition(int data, int position) {
+if (position < 1) { printf("Invalid position\n"); return;
+}
+if (position == 1) { insertAtBeginning(data); return;
+}
+struct Node* newNode = createNode(data); struct Node* temp = head;
+int count = 1;
+while (count < position - 1 && temp != NULL) { temp = temp->next;
+count++;
+}
+if (temp == NULL) { printf("Invalid position\n"); return;
+}
+
+newNode->next = temp->next; temp->next = newNode;
+}
+
+// Function to delete a node from the beginning void deleteAtBeginning() {
+if (head == NULL) { printf("List is empty\n"); return;
+}
+struct Node* temp = head; head = head->next; free(temp);
+}
+ // Function to delete a node from the end void deleteAtEnd() {
