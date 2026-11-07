@@ -690,6 +690,37 @@ Preorder traversal of the constructed AVL tree is 5 0 -1 1 2 9 6 10 11
 
 Preorder traversal after deletion of 10 5 0 -1 1 2 9 6 11
 
+Adjacency list of vertex 0 1 -> 2 ->
+
+Adjacency list of vertex 1 0 -> 2 -> 3 ->
+
+Adjacency list of vertex 2 0 -> 1 -> 3 ->
+
+Adjacency list of vertex 3 1 -> 2 ->
+ex.7a output 
+BFS Traversal starting from vertex 0: Visited 0
+Visited 1
+Visited 2
+Visited 3
+ ex.7a output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
