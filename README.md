@@ -207,5 +207,73 @@ Singly Linked List Operations:
 7.	Display
 8.	Exit
 Enter your choice: 8
+ex.2 output
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	 Delete at Position
+ 
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 2
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 8 2 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 3
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 4
+
+Circular Linked List Operations:
+1.	Create List
+2.	 Insert at Beginning
+
 
 
