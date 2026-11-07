@@ -231,6 +231,7 @@ Circular Linked List Operations:
  
 8.	Display
 9.	Exit
+10.	ex.3a output 
 Enter your choice: 2
 Enter data to insert at beginning: 2
 Circular Linked List Operations:
@@ -275,5 +276,202 @@ Circular Linked List Operations:
 1.	Create List
 2.	 Insert at Beginning
 
+
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	 Delete at Position
+ 
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 2
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 8 2 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 3
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 4
+
+Circular Linked List Operations:
+1.	Create List
+2.	 Insert at Beginning1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	 Delete at Position
+ 
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 2
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 8 2 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 3
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 4
+
+Circular Linked List Operations:
+1.	Create List
+2.	 Insert at Beginning1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	 Delete at Position
+ 
+8.	Display
+9.	Exit
+Enter your choice: 2
+Enter data to insert at beginning: 2
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 8 2 1
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 3
+
+Circular Linked List Operations:
+1.	Create List
+2.	Insert at Beginning
+3.	Insert at End
+4.	Insert at Position
+5.	Delete at Beginning
+6.	Delete at End
+7.	Delete at Position
+8.	Display
+9.	Exit
+Enter your choice: 3
+Enter data to insert at end: 4
+
+Circular Linked List Operations:
+1.	Create List
+2.	 Insert at Beginning
 
 
