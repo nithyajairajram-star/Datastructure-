@@ -487,3 +487,53 @@ Enter your choice: 1 Enter element to push: 10 Element pushed: 10 Stack Operatio
 4.	Exit
 Enter your choice: 1 Enter element to push: 20 Element pushed: 20 Stack Operations 
 
+ex.3b output 
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+ Enter element to enqueue: 10 Element enqueued: 10
+ 
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 20 Element enqueued: 20
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 1
+Enter element to enqueue: 30 Element enqueued: 30
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 3 Queue elements: 10 20 30
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 2 Dequeued element: 10
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	Exit
+Enter your choice: 3 Queue elements: 20 30
+
+Queue Operations Menu:
+1.	Enqueue
+2.	Dequeue
+3.	Display
+4.	exit
