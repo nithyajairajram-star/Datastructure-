@@ -803,6 +803,30 @@ ex.10d
 output
 Original array: 127111356
 Sorted array: 567111213
+ex.11a output
+Press1. Insert 2. Display  3. Exit
+1
+Enter a value to insert into hash table: 12 Press1. Insert 2. Display	3. Exit
+1
+Enter a value to insert into hash table: 7 Press1. Insert 2.Display 3. Exit
+1
+Enter a value to insert into hash table: 3 Press1. Insert 2. Display	3. Exit
+2
+Entries at index 0: No Hash Entry Entries at index 1: 12 -> NULL Entries at index 2: 3 -> 7 -> NULL
+Press 1. Insert  2. Display 3. Exit
+1
+Enter a value to insert into hash table: 15 Press 1. Insert 2. Display	3. Exit
+2
+Entries at index 0: No Hash Entry Entries at index 1: 12 -> NULL
+Entries at index 2: 3 -> 7 -> 15 -> NULL
+Press 1. Insert  2. Display 3. Exit
+3
+
+
+
+
+
+
 
 
 
