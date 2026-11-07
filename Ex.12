@@ -1,0 +1,17 @@
+#define SIZE 50 struct Student { char name[30]; int rollno;
+int sub[3];
+};
+void main() {
+int i, j, max, count, total, n, a[SIZE], ni; struct Student st[SIZE];
+printf("Enter how many students: "); scanf("%d", &n);
+/* for loop to read the names and roll numbers*/ for (i = 0; i< n; i++) {
+printf("\nEnter name and roll number for student %d : ", i); scanf("%s", &st[i].name);
+scanf("%d", &st[i].rollno);
+}
+/* for loop to read ith student's jth subject*/ for (i = 0; i< n; i++) {
+for (j = 0; j <= 2; j++) {
+printf("\nEnter marks of student %d for subject %d : ", i, j); scanf("%d", &st[i].sub[j]);
+}
+}
+/* (i) for loop to calculate total marks obtained by each student*/ for (i = 0; i< n; i++) {
+ total = 0;
