@@ -799,7 +799,10 @@ Elements after sorting:
 3
 4
 5
-
+ex.10d
+output
+Original array: 127111356
+Sorted array: 567111213
 
 
 
