@@ -780,6 +780,29 @@ For the array arr = {12, 45, 67, 23, 56, 89, 9, 43} and searching for element 10
 Element 100 not found in the array.
 ex.10b output 
 
+OUTPUT:
+Enter the number of elements: 5 Enter 5 numbers in ascending order:
+a[0] = 2
+a[1] = 3
+a[2] = 4
+a[3] = 10
+a[4] = 40
+Enter the search element: 10 Element 10 found at index 3.
+
+
+ex.10c output
+Enter the five elements to sort:
+5 4 3 2 1
+Elements after sorting:
+1
+2
+3
+4
+5
+
+
+
+
 
 
 
